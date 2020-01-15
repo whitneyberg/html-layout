@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#gray{
+    background-color: rgba(106, 106, 110, 0.959);
+    height: 75px;
+    width: 100%;
+    padding: 25px;
+
+}
+
+#blue-square{
+    background-color: rgb(33, 33, 199);
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+#white{
+    background-color: white;
+    box-sizing: border-box;
+    padding: 100px;
+    text-align: center;
+    width: 100%;
+}
+
+#blue{
+    background-color: rgb(63, 109, 194);
+    height: 75px;
+    width: 100%;
+
+}
+
+#teal{
+    background-color: turquoise;
+    height: 75px;
+    width: 100%;
+}
+
+#pea-green{
+    background-color: palegreen;
+    height: 75px;
+    width: 100%;
+
+}
+
+#yellow{
+    background-color: yellow;
+    height: 75px;
+    width: 100%;
+}
